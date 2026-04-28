@@ -84,7 +84,7 @@ git clone https://github.com/fakane/projet-collaboratif-AggroSen.git
 cd projet-collaboratif-AggroSen
 
 # Ouvrir dans le navigateur
-open index.html
+start index.html
 # ou double-cliquer sur index.html depuis votre explorateur de fichiers
 ```
 
