@@ -78,10 +78,10 @@ Aucune installation requise. Il suffit d'ouvrir le fichier HTML dans un navigate
 
 ```bash
 # Cloner le dépôt
-git clone git@github.com:<org>/aggrosen.git
+git clone https://github.com/fakane/projet-collaboratif-AggroSen.git
 
 # Aller dans le dossier
-cd aggrosen
+cd projet-collaboratif-AggroSen
 
 # Ouvrir dans le navigateur
 open index.html
