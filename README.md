@@ -209,3 +209,5 @@ MARIETOU SALL      :DEV BACKEND
 ---
 
 *Conçu avec ❤️ pour les agriculteurs sénégalais*
+
+THANK YOU 
